@@ -1,5 +1,5 @@
 {
-  "name": "COMP2146",
+  "name": "COMP2156",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Ojoucee/COMP2156.git"
   },
   "keywords": [],
-  "author": "Jay Chris Areola",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ojoucee/COMP2156/issues"
